@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:21:14.142Z",
+  "generated_at": "2026-10-26T09:21:16.148Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -23,7 +23,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-09-16T15:48:11.871Z",
-      "last_pushed_at": "2026-09-16T15:48:11.871Z"
+      "last_pushed_at": "2026-10-26T09:21:16.145Z"
     },
     "math:34": {
       "kind": "math",
@@ -34,7 +34,7 @@
       "url": "https://www.deep-ml.com/math-problems/34",
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-09-21T14:37:10.077Z",
-      "last_pushed_at": "2026-09-21T14:37:10.077Z"
+      "last_pushed_at": "2026-10-26T09:21:16.146Z"
     },
     "math:1": {
       "kind": "math",
@@ -45,7 +45,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-23T17:51:47.475Z",
-      "last_pushed_at": "2026-09-23T17:51:47.475Z"
+      "last_pushed_at": "2026-10-26T09:21:16.146Z"
     },
     "math:7": {
       "kind": "math",
@@ -56,7 +56,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-25T10:00:53.969Z",
-      "last_pushed_at": "2026-10-25T10:00:53.969Z"
+      "last_pushed_at": "2026-10-26T09:21:16.146Z"
     },
     "math:9": {
       "kind": "math",
@@ -67,7 +67,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-25T13:50:14.593Z",
-      "last_pushed_at": "2026-10-25T13:50:14.593Z"
+      "last_pushed_at": "2026-10-26T09:21:16.146Z"
     },
     "math:10": {
       "kind": "math",
@@ -78,7 +78,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-25T13:53:16.311Z",
-      "last_pushed_at": "2026-10-25T13:53:16.311Z"
+      "last_pushed_at": "2026-10-26T09:21:16.146Z"
     },
     "problem:83": {
       "kind": "problem",
